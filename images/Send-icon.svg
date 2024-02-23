@@ -1,0 +1,13 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 18870">
+<circle id="Ellipse 1" cx="22" cy="22" r="22" fill="#EBF2FF"/>
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M14.9858 16C14.9858 15.3466 15.5155 14.8169 16.1689 14.8169H27.9999C28.6533 14.8169 29.183 15.3466 29.183 16C29.183 16.0573 29.179 16.1136 29.1711 16.1688C29.179 16.224 29.1831 16.2805 29.1831 16.338L29.1831 27.831C29.1831 28.4844 28.6534 29.0141 28 29.0141C27.3466 29.0141 26.8169 28.4844 26.8169 27.831V18.8562L16.8366 28.8366C16.3745 29.2986 15.6254 29.2986 15.1634 28.8366C14.7014 28.3745 14.7014 27.6254 15.1634 27.1634L25.1437 17.1831L16.1689 17.1831C15.5155 17.1831 14.9858 16.6534 14.9858 16Z" fill="url(#paint0_linear_1_21)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_21" x1="22.0077" y1="14.8169" x2="23.7956" y2="28.9909" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FAFF"/>
+<stop offset="0.541667" stop-color="#0063FF"/>
+<stop offset="1" stop-color="#070D1E"/>
+</linearGradient>
+</defs>
+</svg>
